@@ -1,4 +1,4 @@
-//Belajar multi qubit
+//Belajar multi qubit pada quantum computing
 #include <iostream>
 #include <qpp/qpp.hpp>
 
