@@ -5,7 +5,7 @@
 int main() {
     using namespace qpp;
     using namespace std;
-    
+    // |1⟩ & |0⟩ merupakan basis standar qubit 
     // 1. State |00⟩ (4x1 vector)
     ket psi(4);
     psi << 1, 0, 0, 0; // |00⟩ = [1, 0, 0, 0]^T
